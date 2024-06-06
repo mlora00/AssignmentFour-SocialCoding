@@ -8,7 +8,7 @@ function preload(){
   springFlower = loadImage('springFlower.webp');
   summerFlower = loadImage('summerFlower.png')
   fallFlower = loadImage('fallFlower.png');
-  winterFlower = loadImage('winterFlower.');
+  winterFlower = loadImage('winterFlower.avif');
 }
 
 function setup() {
